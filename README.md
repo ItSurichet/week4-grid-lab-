@@ -23,4 +23,4 @@
 - git commit -m  "เชื่อมต่อ JavaScript"
 - git add
 - git commit -m "Redame"
-- it push
+- git push

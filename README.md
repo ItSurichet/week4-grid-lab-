@@ -21,4 +21,6 @@
 - git commit -m "init gallery"  
 - git add . 
 - git commit -m  "เชื่อมต่อ JavaScript"
-- git push
+- git add
+- git commit -m "Redame"
+- it push
